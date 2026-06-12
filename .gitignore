@@ -1,0 +1,4 @@
+config/
+secrets.txt
+*.env
+.env*
